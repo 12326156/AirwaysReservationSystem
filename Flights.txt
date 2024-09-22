@@ -1,0 +1,5 @@
+1;AI101;New York;Los Angeles;48
+2;BA202;London;Paris;74
+3;AF303;Paris;Tokyo;100
+4;LH404;Berlin;Rome;80
+5;EK505;Dubai;Mumbai;60
